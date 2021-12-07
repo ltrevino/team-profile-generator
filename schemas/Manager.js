@@ -13,7 +13,10 @@ class Manager extends Employee {
     // override employee role to manager 
     getRole () {
         return "Manager";
+    
     }
+    getOfficeNumber() {
+        return this.officeNumber;    }
 }
 
 // to be exported 
