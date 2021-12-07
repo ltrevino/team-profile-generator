@@ -1,7 +1,7 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "Unit 10 homework",
+  "description": "TEAM",
   "main": "app.js",
   "directories": {
     "lib": "lib",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyanEllingson/Team-Profile-Generator.git"
+    "url": ""
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RyanEllingson/Team-Profile-Generator/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/RyanEllingson/Team-Profile-Generator#readme",
+  "homepage": "",
   "dependencies": {
     "inquirer": "^7.0.0",
     "jest": "^24.9.0"
